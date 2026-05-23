@@ -1,1 +1,0 @@
-# Car-parking-and-slot-availability-checker-system-using-stm32
